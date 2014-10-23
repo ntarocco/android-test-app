@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Production APP</string>
+    <string name="endpoint">This is the PRODUCTION endpoint</string>
+</resources>
