@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">androidTestApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_1">News</string>
+    <string name="map_1">Map</string>
+    <string name="order_1">Order</string>
+    <string name="myaccount_1">My Account</string>
+    <string name="basket_1">Basket</string>
+
+</resources>
